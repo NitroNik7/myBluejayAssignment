@@ -8,6 +8,6 @@ java -jar BluejayDelivery.jar
 I have added comments wherever necessary. I request you to please consider my project.
 
 ### Submitted By
-Nikhil harpale
-nikhilharpale151@gmail.com
+Nikhil harpale <br>
+nikhilharpale151@gmail.com <br>
 8208913889
