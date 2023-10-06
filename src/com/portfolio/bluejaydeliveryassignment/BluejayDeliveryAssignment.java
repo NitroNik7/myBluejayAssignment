@@ -40,19 +40,6 @@ public class BluejayDeliveryAssignment {
         moreThanFourteenHourShift(fileEmpDetails);
     }
 
-    public static void displayAll(TreeMap<Integer, EmployeeVo> data) {
-        for (int i : data.keySet()) {
-            for (Date d : data.get(i).getDateShift().keySet()) {
-                if (d == null) {
-                    System.out.println("Null");
-                }
-                for (ShiftVo vo : data.get(i).getDateShift().get(d)) {
-                    System.out.println(data.get(i).positionId + "\t" + data.get(i).positionStatus + "\t" + data.get(i).getFname() + "\t" + data.get(i).getLname() + "\t" + d + "\t" + vo.getTimeIn() + "\t" + vo.getTimeOut());
-                }
-            }
-        }
-    }
-
     public static void consecutiveDays(int days, TreeMap<Integer, EmployeeVo> fileEmpDetails) {
 //        System.out.println(data.keySet());
         for (int i : fileEmpDetails.keySet()) {
@@ -95,7 +82,7 @@ public class BluejayDeliveryAssignment {
                     long timeBetweenShifts = Duration.between(currShiftTimeOut, nextShiftTimeIn).toMinutes();
                     // Compare the parameters (in this example, we are using integers)
                     if (timeBetweenShifts > 60 && timeBetweenShifts < 600) {
-                        System.out.println(d + " " + fileEmpDetails.get(i).positionId + ",\t" + fileEmpDetails.get(i).positionStatus + ",\t\t\t" + fileEmpDetails.get(i).getFname() + ", " + fileEmpDetails.get(i).getLname());
+                        System.out.println(fileEmpDetails.get(i).positionId + ",\t" + fileEmpDetails.get(i).positionStatus + ",\t\t\t" + fileEmpDetails.get(i).getFname() + ", " + fileEmpDetails.get(i).getLname());
                     }
                 }
             }
