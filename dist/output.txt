@@ -1,0 +1,25 @@
+Bluejay Delivery Assignment
+
+Employees who have worked for atleast 7 consecutive days are :
+PositionID,	Position Status,	Name 
+WFS000101,	Active,			Sparks,  KeWWeMh
+WFS000424,	Active,			SiWgh,  JaspreeM
+WFS000456,	Active,			CEreira Jr,  JEse
+WFS000473,	Active,			GAeWdia,  JAaW CarXEs
+
+
+Employees who have less than 10 hours of time between shifts but greater than 1 hour :
+PositionID,	Position Status,	Name 
+Mon Sep 11 00:00:00 IST 2023 WFS000153,	Active,			CaMaXaWE,  CeghaW
+Wed Sep 20 00:00:00 IST 2023 WFS000153,	Active,			CaMaXaWE,  CeghaW
+Mon Sep 18 00:00:00 IST 2023 WFS000200,	Active,			Xee,  XaCar
+Tue Sep 19 00:00:00 IST 2023 WFS000200,	Active,			Xee,  XaCar
+Thu Sep 14 00:00:00 IST 2023 WFS000456,	Active,			CEreira Jr,  JEse
+Sun Sep 17 00:00:00 IST 2023 WFS000523,	Active,			DeXgadiXXE REdarMe,  ChrisMiaW S
+Thu Sep 21 00:00:00 IST 2023 WFS000536,	Active,			HaCiXMEW,  DeaWMe DevEW
+Sat Sep 23 00:00:00 IST 2023 WFS000550,	Active,			REdrigAez,  GraWdEW AWgeX
+
+
+Employee who Who has worked for more than 14 hours in a single shift :
+PositionID,	Position Status,	Name 
+WFS000523,	Active,			DeXgadiXXE REdarMe,  ChrisMiaW S
