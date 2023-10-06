@@ -5,7 +5,7 @@ Dear Sir/Ma'am, I have solved the assignment using Java. You can run the jar fil
 java -jar BluejayDelivery.jar
 ``` 
 
-I have added comments wherever necessary. I request you to please consider my project.
+I have saved the `Console output` in the output.txt file. Also, I have added `comments` wherever necessary. I request you to please consider my project.
 
 ### Submitted By
 Nikhil harpale <br>
