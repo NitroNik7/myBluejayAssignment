@@ -1,6 +1,6 @@
 # myBluejayAssignment
 
-Dear Sir/Ma'am, I have solved the assignment using Java. > Note : I have converted Assignment Input file into CSV for easier parsing.
+Dear Sir/Ma'am, I have solved the assignment using Java.  **Note : I have converted Assignment Input file into CSV for easier parsing.**
 
 You can run the jar file of the Project stored at : [JAR file path](https://github.com/NitroNik7/myBluejayAssignment/blob/master/dist/BluejayDelivery.jar) using the command
 ```
