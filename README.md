@@ -1,7 +1,7 @@
 # myBluejayAssignment
 
 Dear Sir/Ma'am, I have solved the assignment using Java.  
-**Note : I have downloaded Assignment Input file in CSV format for easier parsing.**
+*Note : I have downloaded Assignment Input file in CSV format for easier parsing.*
 
 You can run the jar file of the Project stored at : [JAR file path](https://github.com/NitroNik7/myBluejayAssignment/blob/master/dist/BluejayDelivery.jar) using the command
 ```
